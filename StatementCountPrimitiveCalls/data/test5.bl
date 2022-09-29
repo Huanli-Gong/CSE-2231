@@ -1,0 +1,9 @@
+
+WHILE random DO
+      IF next-is-not-enemy THEN
+        move
+      ELSE
+      move
+        move
+      END IF
+    END WHILE
