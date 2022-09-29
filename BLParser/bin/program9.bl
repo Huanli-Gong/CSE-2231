@@ -1,0 +1,6 @@
+PROGRAM Test IS
+BEGIN
+  WHILE true DO
+    turnright
+  END WHILE
+END Test

@@ -1,0 +1,16 @@
+WHILE true DO
+  move
+  turnright
+  IF next-is-not-enemy THEN
+
+  IF random THEN
+    turnleft
+    infect
+  ELSE
+    go-for-it
+    turnright
+    look-for-something
+  END IF
+ skip
+END WHILE
+
